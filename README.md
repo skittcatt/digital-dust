@@ -125,9 +125,8 @@ Open to SOC Analyst / Junior DFIR opportunities in New Zealand and Australia.
 
 ## Portfolio Statistics
 
-- **Investigations Documented:** 4+ (growing)
-- **MITRE ATT&CK Techniques Mapped:** 20+
-- **Malware Families Analyzed:** 3+
+- **Investigations Documented:** 3 (current)
+- **Malware Families Analyzed:** 4+
 - **Repository Last Updated:** December 2025
 
 ---
