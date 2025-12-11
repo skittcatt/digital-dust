@@ -125,7 +125,7 @@ Open to SOC Analyst / Junior DFIR opportunities in New Zealand and Australia.
 
 ## Portfolio Statistics
 
-- **Investigations Documented:** 3 (current)
+- **Investigations Documented:** 3
 - **Malware Families Analyzed:** 4+
 - **Repository Last Updated:** December 2025
 
