@@ -1,6 +1,4 @@
-
 ## Basic Commands & Navigation
-
 | Command   | Function                                          |
 | --------- | ------------------------------------------------- |
 | whatis __ | Briefly explains command                          |
