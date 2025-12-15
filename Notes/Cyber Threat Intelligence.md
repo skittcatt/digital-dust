@@ -1,16 +1,18 @@
 [15/12/2025]
-## What is Cyber Threat Intelligence (CTI)?
+## Using Threat Intelligence - XTI Framework
 
-- Cybersecurity discipline focused on producing actionable intelligence.
-- Processes and interprets data from multiple sources.
-- Helps organizations prevent, detect, and reduce impact of cyber attacks.
-- The purpose is to understand attackers Techniques, Tactics and Procedures (TTPs) as well as turning this into meaningful data.
+*Extended Threat Intelligence (XTI)* combines three key areas to provide comprehensive threat awareness:
+
+1. **External Attack Surface Management (EASM)** → What attackers can see and target
+2. **Digital Risk Protection (DRP)** → How the brand and people are at risk
+3. **Cyber Threat Intelligence (CTI)** → What's happening in the global threat landscape
+
+When all three areas are combined and integrated with security tools (SIEM, SOAR, EDR), they form a complete XTI structure that enables proactive defense.
 
 ---
 ## CTI Lifecycle
 
-![[CTI_Lifecycle.png.png]]
-
+![[CTI_Lifecycle.png]]
 #### Step One: Planning & Direction
 - Foundational structure for CTI.
 - It defines what intelligence is needed, who uses it, and how its used by asking certain questions:
@@ -29,7 +31,7 @@
 		- **The organization:**
 			- Ensure focus is on exposed/vulnerable systems and assets.
 			- Use External Attack Surface Management (EASM), this is designed more for attacks targeting the system surface itself.
-		- **The individuals/employees/users:
+		- **The individuals/employees/users:**
 			- Ensure focus is on the users and the user risks.
 			- Use Digital Risk Protection (DRP), as this is designed more for defining the risks that companies may face through the surface.
 	- ***Are there other companies exposed to the same attacks?***
@@ -76,7 +78,6 @@
  
 ---
 ## Types of CTI 
-
 - The reason why it is split up is because the CTI varies by position in a company.
 	- Technical staff would have different intelligence that managerial staff.
 
@@ -107,10 +108,91 @@
 	- Product purchasing.
 	- Budgeting.
 	- Planning.
-- Weighs the tatical CTI outputs against the tasks that the organization has in the long-run.
+- Weighs the tactical CTI outputs against the tasks that the organization has in the long-run.
 
 ---
+## Using Threat Intelligence
+- We gain consumable threat intelligence after the data has been interpreted and analyzed.
+- There are three different areas where the intelligence can be used. When all three of these areas are combined, they form the XTI (Extended Threat Intelligence) structure.
 
-## Attack Surface
+### External Attack Surface Management (EASM)
 
-- 
+**What EASM is**
+- Manages everything the organization exposes to the internet
+- Helps find unknown, forgotten, or misconfigured assets
+
+**What EASM Monitors**
+- Domains & subdomains
+- IP addresses    
+- Websites    
+- Open ports    
+- SSL certificates
+    
+**Why EASM Matters**
+- Exposed assets = attack opportunities
+- Vulnerabilities on public assets increase risk    
+- Assets must be **continuously monitored**
+    
+**Common EASM Alerts**
+- **New asset detected** → Check if it belongs to the organization    
+- **Domain / DNS change** → Verify it was authorized    
+- **DNS zone transfer** → Check for misconfiguration    
+- **Internal IP exposed** → Fix DNS record    
+- **Critical open port** → Close or secure it    
+- **SMTP open relay** → Fix mail server configuration    
+- **SPF / DMARC missing** → Configure email security records    
+- **SSL expired/revoked** → Renew certificate    
+- **Suspicious redirect** → Possible compromise    
+- **Subdomain takeover** → Fix DNS immediately    
+- **Website status changed** → Investigate outage or issue    
+- **Vulnerability detected** → Patch immediately    
+
+### Digital Risk Protection (DRP)
+
+**What DRP is**
+- Protects the organization’s brand, people, and reputation
+- Focuses on threats outside the internal network
+
+**What DRP Monitors**
+- Phishing domains    
+- Fake mobile apps    
+- Social media impersonation    
+- Dark & Deep Web activity    
+- Leaked data and credentials    
+
+**Common DRP Alerts**
+- **Phishing domain** → Investigate & request takedown    
+- **Fake mobile app** → Analyze & remove    
+- **IP reputation loss** → Investigate possible abuse or breach    
+- **Impersonating social account** → Report & request removal    
+- **Botnet listing** → Isolate system & reset credentials    
+- **Dark web mention** → Analyze threat early    
+- **IM platform mention** → Investigate conversation    
+- **Stolen credit card** → Inform fraud team    
+- **Data leak in repo/bucket** → Remove data immediately    
+- **Malware mentioning company** → Analyze file    
+- **Employee/VIP credentials leaked** → Reset passwords    
+
+### Cyber Threat Intelligence (CTI)
+
+**What CTI is**
+- Sub-branch of XTI focused on the broader cyber threat landscape.
+- Monitors global threat activity and trends.
+- Provides awareness of what's happening in the cyber world.
+- Complements EASM and DRP with external threat context.
+
+**What CTI Monitors**
+- Current malicious campaigns (global threat activity)
+- Ransomware group operations and targets
+- Offensive IP addresses and infrastructure worldwide
+- Emerging vulnerabilities and exploits
+- Threat actor movements and tactics
+- Zero-day discoveries
+- Botnet activity
+
+**How CTI Works**
+- **Global perspective:** Monitors threats beyond just your organization
+- **Intelligence feeds:** Aggregates data from multiple sources worldwide
+- **Corporate integration:** Combines global CTI with your organization's internal data (corporate feeds)
+- **Tool enhancement:** Integrates with SIEM, SOAR, and EDR platforms
+
