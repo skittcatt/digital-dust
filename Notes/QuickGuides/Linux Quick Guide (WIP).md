@@ -1,15 +1,16 @@
 
 ## Basic Commands & Navigation
 
-| Command   | Function                                          |     |
-| --------- | ------------------------------------------------- | --- |
-| whatis __ | Briefly explains command                          |     |
-| man __    | Opens manual for command                          |     |
-| cd __     | Change directory to selected directory            |     |
-| cd ..     | Go to previous directory                          |     |
-| cd ~      | Go to home directory                              |     |
-| dir       | Show all directories & files in current directory |     |
-| dir -l    | Above + permissions of files                      |     |
+| Command   | Function                                          |
+| --------- | ------------------------------------------------- |
+| whatis __ | Briefly explains command                          |
+| man __    | Opens manual for command                          |
+| cd __     | Change directory to selected directory            |
+| cd ..     | Go to previous directory                          |
+| cd ~      | Go to home directory                              |
+| dir       | Show all directories & files in current directory |
+| dir -l    | Above + permissions of files                      |
+| clear     | Clears the terminal                               |
 
 ## File Management Commands
 | Command            | Function                                                  |
