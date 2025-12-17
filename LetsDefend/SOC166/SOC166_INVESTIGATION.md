@@ -341,11 +341,11 @@ Results:
 
 **Tactics observed:**
 -  Initial Access - T1190 (Exploit Public-Facing Application)
-  - Attempted XSS against web server search function
+>- Attempted XSS against web server search function
 -  Execution - T1059.007 (Command and Scripting Interpreter: JavaScript)
-  - Attempted to inject and execute JavaScript in browser context
+>- Attempted to inject and execute JavaScript in browser context
 -  Discovery - T1046 (Network Service Scanning)
-  - Initial recon request (q=test) before attack attempts
+>- Initial recon request (q=test) before attack attempts
 
 **If successful, would enable:**
 - Credential Access (session hijacking)
