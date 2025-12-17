@@ -208,18 +208,26 @@ Results: N
 ## Questions/Blockers (WIP)
 
 **Stuff I'm not sure about:**
-- Was the attack successful?
-- Was the attacker able to access the site fully?
+- Was data exfiltrated despite identical responses? (Requires deeper log analysis)
+- Why is WebServer1000 not appearing in EDR? (Configuration issue or system offline?)
+- Are there other web servers vulnerable to same attack?
 
 **Need to ask:**
-- 
+- Web application team: "Does application log SQL errors separately?"
+- Infrastructure team: "Why is WebServer1000 not reporting to EDR?"
+- Security team: "Is WAF deployed? If yes, why didn't it block SQLmap?"
 
 **Waiting on:**
-- 
+- EDR connectivity restored for WebServer1000
+- Application-level logs from web server
+- Database query logs (if available)
 
 **Follow-up needed:**
-- 
-
+- Manual security testing of /index.php endpoint
+- Review application security controls (input validation, parameterized queries)
+- Check other web servers for similar scanning activity from this IP
+- Implement WAF if not present
+- Create detection rule for SQLmap User-Agent signature
 ---
 ## Something to Note - Learning Point
 
@@ -248,7 +256,7 @@ Always assess "success" based on attacker objective achievement, not just techni
 ---
 ## Final Verdict (Before closing)
 
-**Verdict:** [Suspicious]
+**Verdict:** [Malicious]
 
 **Confidence:** [High]
 

@@ -35,7 +35,8 @@
               "title": "SOC146_INVESTIGATION"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "70aea3193661b5cc",
+  "active": "ded5f89d9092caeb",
   "lastOpenFiles": [
-    "LetsDefend/SOC146/SOC146_INVESTIGATION.md",
     "LetsDefend/SOC127/SOC127_INVESTIGATION.md",
+    "LetsDefend/SOC146/SOC146_INVESTIGATION.md",
     "LetsDefend/SOC138_WIP/SOC138_INVESTIGATION_WIP.md",
     "LetsDefend/SOC127",
     "LetsDefend/Templates/INVESTIGATION TEMPLATE.md",
