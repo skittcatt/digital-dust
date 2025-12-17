@@ -4,7 +4,6 @@
 - Completed site induction for new project.
 - Covered safety protocols, site access procedures, and emergency response.
 - Familiarized with site-specific hazards and control measures.
-
 ### Security Training
 - Continuing with LetsDefend SOC training.
 - Discovering how to perform malicious document analysis.
@@ -20,7 +19,6 @@
 - Observed troubleshooting process for critical power infrastructure.
 - Identified issue requiring follow-up maintenance.
 - Scheduled return visit to assist with remediation.
-
 ### Security Training - LetsDefend Modules
 **1. Building a SOC Home Lab**
 Completed modules: pfSense, Active Directory, Windows Workstation, Sysmon, CrowdSec
