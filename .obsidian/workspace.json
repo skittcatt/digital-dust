@@ -8,35 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27129fb7cff53dc7",
+            "id": "bcf0910d70441a5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LetsDefend/SOC127/SOC127_INVESTIGATION.md",
+                "file": "Notes/LetsDefend Modules/Basic Incident Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOC127_INVESTIGATION"
+              "title": "Basic Incident Management"
             }
           },
           {
-            "id": "ded5f89d9092caeb",
+            "id": "ba4303cedccb77ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LetsDefend/SOC146/SOC146_INVESTIGATION.md",
+                "file": "Notes/LetsDefend Modules/Malicious Document Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOC146_INVESTIGATION"
+              "title": "Malicious Document Analysis"
+            }
+          },
+          {
+            "id": "4a667d46dc8276c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/LetsDefend Modules/Malicious Document Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Malicious Document Analysis"
+            }
+          },
+          {
+            "id": "bcc23abe3de5d204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,9 +226,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ded5f89d9092caeb",
+  "active": "bcc23abe3de5d204",
   "lastOpenFiles": [
+    "Notes/LetsDefend Modules/Basic Incident Management.md",
+    "Notes/LetsDefend Modules/Cyber Threat Intelligence.md",
+    "Notes/LetsDefend Modules/Dynamic Malware Analysis.md",
+    "Notes/LetsDefend Modules/Malicious Document Analysis.md",
+    "Notes/LetsDefend Modules/Security Solutions.md",
+    "Notes/README.md",
+    "Notes/Security+ Study Notes/Untitled.md",
+    "Untitled/desktop.ini",
+    "Notes/LetsDefend Modules",
     "LetsDefend/SOC127/SOC127_INVESTIGATION.md",
+    "Notes/Security+ Study Notes",
     "LetsDefend/SOC146/SOC146_INVESTIGATION.md",
     "LetsDefend/SOC138_WIP/SOC138_INVESTIGATION_WIP.md",
     "LetsDefend/SOC127",
@@ -208,27 +246,20 @@
     "InternshipLog/12December2025/2025-12-15_WeeklyLog.md",
     "LetsDefend/Templates/EXPANDED TEMPLATE.md",
     "LetsDefend/Templates/QUICK TEMPLATE.md",
-    "Untitled/desktop.ini",
     "LetsDefend/Templates",
-    "Notes/Malicious Document Analysis.md",
     "Notes/QuickGuides/Static Malware Analysis Quick Commands.md",
-    "Notes/Dynamic Malware Analysis.md",
     "Notes/HomeLab_ToDo.md",
     "InternshipLog/12December2025/2025-12-11_WeeklyLog.md",
-    "Notes/Basic Incident Management.md",
     "Images/CTI_Lifecycle.png",
-    "Notes/Cyber Threat Intelligence.md",
     "Notes/QuickGuides/Linux Quick Guide (WIP).md",
     "Notes/QuickGuides/Procmon Quick Guide (WIP).md",
     "Images",
-    "Notes/README.md",
     "Notes/QuickGuides",
     "LetsDefend/README.md",
     "README.md",
     "InternshipLog/12December2025",
     "InternshipLog/README.md",
     "InternshipLog",
-    "LetsDefend/SOC138_WIP",
-    "Notes/Security Solutions.md"
+    "LetsDefend/SOC138_WIP"
   ]
 }

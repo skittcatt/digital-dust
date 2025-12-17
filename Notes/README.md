@@ -14,27 +14,15 @@ These notes serve as:
 
 **Format:** Markdown for easy reading and version control
 
-**Structure:**
-- Concept explanation
-- Practical examples
-- Common use cases
-- Troubleshooting tips
-- Related resources
-
 **Sources:**
-- Professional training courses
+- Professional online training courses
 - Hands-on lab experience
-- Industry documentation
-- Security research papers
-- Professional mentorship
 
 ## Learning Resources Referenced
 - LetsDefend training platform
-- MITRE ATT&CK documentation
-- Vendor documentation (Microsoft, Cisco, etc.)
-- Security community blogs and forums
+- HackTheBox training platform
+- Various Udemy learning courses
 - Professor Messer Youtube Videos
-- PluralSight courses
 
 ## Work in Progress (WIP)
 Notes marked as WIP are actively being developed as I learn new concepts and techniques. These are living documents that evolve with experience.
@@ -55,7 +43,6 @@ These notes are not:
 If you're reviewing these notes and spot errors or have suggestions, feel free to reach out. Cybersecurity is a collaborative field, and I'm always learning.
 
 ---
-
 ## Future Topics
 
 **Planned additions:**
