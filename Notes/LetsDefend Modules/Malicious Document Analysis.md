@@ -25,7 +25,7 @@ To install oletools in Linux:
 [$sudo -H pip install -U oletools]
 
 To install oletools in Windows:
-[#pip install -U oletools]
+[pip install -U oletools]
 
 **Note: will need python installed**
 
