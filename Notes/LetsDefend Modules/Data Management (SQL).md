@@ -79,15 +79,16 @@ It refers to a collection of (raw) pieces of information. Can be in many differe
 | **/* */**                  | Inserts comments into a query without disrupting the query                 | `SELECT * FROM /* This is a comment. */ alert;`                                                                                                                                |
 
 ### Operators
-| Operator | Description                                                                  |
-| -------- | ---------------------------------------------------------------------------- |
-| =        | Equal                                                                        |
-| >        | Greater than                                                                 |
-| <        | Lesser than                                                                  |
-| >=       | Greater than or equal                                                        |
-| <=       | Lesser than or equal                                                         |
-| <> / !=  | Not equal                                                                    |
-| BETWEEN  | Between a certain range                                                      |
-| LIKE     | Search for a pattern                                                         |
-| IN (,)   | To specify multiple possible values for a column, can be used in place of OR |
-| %        | Wildcard symbol                                                              |
+| Operator           | Description                                                                  |
+| ------------------ | :--------------------------------------------------------------------------- |
+| =                  | Equal                                                                        |
+| >                  | Greater than                                                                 |
+| <                  | Lesser than                                                                  |
+| >=                 | Greater than or equal                                                        |
+| <=                 | Lesser than or equal                                                         |
+| <> / !=            | Not equal                                                                    |
+| BETWEEN            | Between a certain range                                                      |
+| LIKE               | Search for a pattern                                                         |
+| IN ( ____ , ____ ) | To specify multiple possible values for a column, can be used in place of OR |
+| %                  | Wildcard symbol                                                              |
+___
