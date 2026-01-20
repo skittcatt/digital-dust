@@ -1,0 +1,12 @@
+- OpenMediaVault
+	- Raspberry Pi
+		- Might be slow (bottleneck), consider using old laptop
+	- SSD/Harddrives (Pi hats)
+	- Becomes a dedicated NAS server
+	- Take a look at the MD plugin
+		- Software RAID
+- Workstation
+	- Consider getting a workstation desktop for Proxmox - more powerful
+- UPS
+	- Backup power generator incase of powercut
+- 

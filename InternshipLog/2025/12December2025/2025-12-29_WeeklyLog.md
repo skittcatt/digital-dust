@@ -14,3 +14,8 @@
 - Executed scheduled server backup procedures including weekly and monthly tape rotations.
 
 ## December 31, 2025
+
+### IT Helpdesk Support
+- Updated asset management database in VQSM with newly deployed hardware inventory.
+- Prepared and installed backup media for scheduled weekly server backup operations.
+- Provided support for routine helpdesk ticket resolution and user requests.

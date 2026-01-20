@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/HackTheBox Modules/Untitled.md",
+                "file": "HomeLabbing/HomeLab_ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "HomeLab_ToDo"
             }
           },
           {
-            "id": "e7f89ed6059b57dd",
+            "id": "557d5fb36f4df2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InternshipLog/12December2025/2025-12-29_WeeklyLog.md",
+                "file": "HomeLabbing/HomeLab_Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-29_WeeklyLog"
-            }
-          },
-          {
-            "id": "5ff731787d7eafdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InternshipLog/12December2025/2025-12-11_WeeklyLog.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-11_WeeklyLog"
+              "title": "HomeLab_Ideas"
             }
           }
         ],
@@ -213,25 +199,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7f89ed6059b57dd",
+  "active": "557d5fb36f4df2d9",
   "lastOpenFiles": [
-    "InternshipLog/12December2025/2025-12-11_WeeklyLog.md",
-    "InternshipLog/12December2025/2025-12-29_WeeklyLog.md",
-    "InternshipLog/12December2025/2025-12-22_WeeklyLog.md",
-    "InternshipLog/12December2025/2025-12-15_WeeklyLog.md",
-    "Notes/HackTheBox Modules/Untitled.md",
-    "Notes/QuickGuides/Linux Quick Guide (WIP).md",
-    "Notes/HomeLab_ToDo.md",
-    "Notes/Security+ Study Notes/Untitled.md",
-    "Notes/QuickGuides/Procmon Quick Guide (WIP).md",
+    "HomeLabbing/HomeLab_ToDo.md",
+    "HomeLabbing/HomeLab_Ideas.md",
+    "Untitled/desktop.ini",
+    "HomeLabbing",
+    "InternshipLog/2025/12December2025/2025-12-15_WeeklyLog.md",
     "Notes/QuickGuides/Static Malware Analysis Quick Commands.md",
-    "Notes/LetsDefend Modules/Reverse Engineering.md",
-    "Notes/LetsDefend Modules/Data Management (SQL).md",
+    "Notes/QuickGuides/Procmon Quick Guide (WIP).md",
+    "Notes/QuickGuides/Linux Quick Guide (WIP).md",
+    "Notes/Security+ Study Notes/Untitled.md",
+    "Notes/HackTheBox Modules/Untitled.md",
+    "LetsDefend Alerts/SOC138_WIP/SOC138_INVESTIGATION_WIP.md",
     "LetsDefend Alerts/SOC127/SOC127_INVESTIGATION.md",
     "LetsDefend Alerts/SOC127/Raw Logs (Decoded).md",
+    "LetsDefend Alerts/SOC166/SOC166_INVESTIGATION.md",
+    "InternshipLog/README.md",
+    "Images/CTI_Lifecycle.png",
+    "InternshipLog/2026/01January2026/2026-01-05_WeeklyLog.md",
+    "InternshipLog/2025/12December2025/2025-12-29_WeeklyLog.md",
+    "InternshipLog/2026",
+    "InternshipLog/2025",
+    "InternshipLog/2026/01January2026",
+    "InternshipLog/2025/12December2025/2025-12-11_WeeklyLog.md",
+    "InternshipLog/2025/12December2025/2025-12-22_WeeklyLog.md",
+    "Notes/LetsDefend Modules/Reverse Engineering.md",
+    "Notes/LetsDefend Modules/Data Management (SQL).md",
     "Notes/LetsDefend Modules/Malicious Document Analysis.md",
     "Notes/README.md",
-    "Untitled/desktop.ini",
     "Notes/HackTheBox Modules",
     "Notes/LetsDefend Modules/Basic Incident Management.md",
     "Notes/LetsDefend Modules/Cyber Threat Intelligence.md",
@@ -239,18 +235,7 @@
     "Notes/LetsDefend Modules/Security Solutions.md",
     "Notes/LetsDefend Modules",
     "Notes/Security+ Study Notes",
-    "LetsDefend Alerts/SOC146/SOC146_INVESTIGATION.md",
-    "LetsDefend Alerts/SOC138_WIP/SOC138_INVESTIGATION_WIP.md",
     "LetsDefend Alerts/SOC127",
-    "LetsDefend Alerts/Templates/INVESTIGATION TEMPLATE.md",
-    "LetsDefend Alerts/Templates/EXPANDED TEMPLATE.md",
-    "LetsDefend Alerts/Templates/QUICK TEMPLATE.md",
-    "LetsDefend Alerts/Templates",
-    "Images/CTI_Lifecycle.png",
-    "Images",
-    "Notes/QuickGuides",
-    "LetsDefend Alerts/README.md",
-    "InternshipLog/12December2025",
-    "InternshipLog"
+    "LetsDefend Alerts/Templates"
   ]
 }
