@@ -8,7 +8,7 @@ Currently building practical investigation skills through hands-on malware analy
 
 **Location:** Auckland, New Zealand  
 **Focus Areas:** SOC Analysis, DFIR, Malware Analysis, Threat Hunting  
-**Certifications in Progress:** CompTIA Security+ (Target: Q1 2026)
+**Certifications in Progress:** CompTIA Security+
 
 ---
 
@@ -106,7 +106,7 @@ The [Notes](./Notes/) folder contains:
 - Expected Graduation: June 2026
 
 **Certifications & Training:**
-- CompTIA Security+ *(In Progress - Q1 2026)*
+- CompTIA Security+ *(In Progress)*
 - Cisco Networking Academy - Network Security Badge
 - LetsDefend SOC Analyst Training *(In Progress)*
 - TryHackMe SOC Level 1 Path *(In Progress)*
@@ -127,7 +127,7 @@ Open to SOC Analyst / Junior DFIR opportunities in New Zealand and Australia.
 
 - **Investigations Documented:** 3
 - **Malware Families Analyzed:** 4+
-- **Repository Last Updated:** December 2025
+- **Repository Last Updated:** February 2026
 
 ---
 
